@@ -1,6 +1,6 @@
 {
-    "name": "pterodactyl/panel",
-    "description": "The free, open-source game management panel. Supporting Minecraft, Spigot, BungeeCord, and SRCDS servers.",
+    "name": "hostunify/panel",
+"description": "HostUnify is a free, open-source game and application management panel supporting Minecraft, Spigot, BungeeCord, SRCDS, Node.js, Python, and Docker servers.",
     "license": "MIT",
     "authors": [
         {
