@@ -4,15 +4,15 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Matthew Penner",
-            "email": "matthew@pterodactyl.io",
-            "homepage": "https://github.com/matthewpi",
+            "name": "RAJVEER MISHRA",
+            "email": "rajveermishra6362@gmail.com",
+            "homepage": "https://universalcloud.in",
             "role": "Lead Developer"
         },
         {
-            "name": "Dane Everitt",
-            "email": "dane@daneeveritt.com",
-            "homepage": "https://github.com/DaneEveritt",
+            "name": "ZEON",
+            "email": "support@hostunfiy.in",
+            "homepage": "https://hostunify.in",
             "role": "Developer"
         }
     ],
@@ -70,14 +70,14 @@
             "app/helpers.php"
         ],
         "psr-4": {
-            "Pterodactyl\\": "app/",
+            "HOSTUNFIY\\": "app/",
             "Database\\Factories\\": "database/Factories/",
             "Database\\Seeders\\": "database/Seeders/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Pterodactyl\\Tests\\": "tests/"
+            "HOSTUNFIY\\Tests\\": "tests/"
         }
     },
     "scripts": {
