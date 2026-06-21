@@ -222,11 +222,11 @@ return [
         'Alert' => Prologue\Alerts\Facades\Alert::class,
         'Carbon' => Carbon\Carbon::class,
         'JavaScript' => Laracasts\Utilities\JavaScript\JavaScriptFacade::class,
-        'Theme' => Pterodactyl\Extensions\Facades\Theme::class,
+        'Theme' => HOSTUNFIYExtensions\Facades\Theme::class,
 
         // Custom Facades
-        'Activity' => Pterodactyl\Facades\Activity::class,
-        'LogBatch' => Pterodactyl\Facades\LogBatch::class,
-        'LogTarget' => Pterodactyl\Facades\LogTarget::class,
+        'Activity' => HOSTUNFIY\Facades\Activity::class,
+        'LogBatch' => HOSTUNFIY\Facades\LogBatch::class,
+        'LogTarget' => HOSTUNFIY\Facades\LogTarget::class,
     ])->toArray(),
 ];
