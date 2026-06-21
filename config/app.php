@@ -190,16 +190,16 @@ return [
         /*
          * Application Service Providers...
          */
-        Pterodactyl\Providers\ActivityLogServiceProvider::class,
-        Pterodactyl\Providers\AppServiceProvider::class,
-        Pterodactyl\Providers\AuthServiceProvider::class,
-        Pterodactyl\Providers\BackupsServiceProvider::class,
-        Pterodactyl\Providers\BladeServiceProvider::class,
-        Pterodactyl\Providers\EventServiceProvider::class,
-        Pterodactyl\Providers\HashidsServiceProvider::class,
-        Pterodactyl\Providers\RouteServiceProvider::class,
-        Pterodactyl\Providers\RepositoryServiceProvider::class,
-        Pterodactyl\Providers\ViewComposerServiceProvider::class,
+        HOSTUNFIY\Providers\ActivityLogServiceProvider::class,
+        HOSTUNFIY\Providers\AppServiceProvider::class,
+        HOSTUNFIY\Providers\AuthServiceProvider::class,
+        HOSTUNFIY\Providers\BackupsServiceProvider::class,
+        HOSTUNFIY\Providers\BladeServiceProvider::class,
+        HOSTUNFIY\Providers\EventServiceProvider::class,
+        HOSTUNFIY\Providers\HashidsServiceProvider::class,
+        HOSTUNFIY\Providers\RouteServiceProvider::class,
+        HOSTUNFIY\Providers\RepositoryServiceProvider::class,
+        HOSTUNFIY\Providers\ViewComposerServiceProvider::class,
 
         /*
          * Additional Dependencies
